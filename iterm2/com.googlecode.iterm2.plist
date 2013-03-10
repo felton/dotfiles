@@ -1079,7 +1079,7 @@
 	<key>NSWindow Frame iTerm Window 0</key>
 	<string>123 267 962 706 0 0 1680 1028 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>2027 238 913 689 1680 -30 1920 1080 </string>
+	<string>383 203 913 689 0 0 1680 1028 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
 	<string>195 209 1011 808 0 0 1680 1028 </string>
 	<key>NSWindow Frame iTerm Window 3</key>
@@ -2250,7 +2250,7 @@
 			<key>Close Sessions On End</key>
 			<true/>
 			<key>Columns</key>
-			<integer>129</integer>
+			<integer>141</integer>
 			<key>Command</key>
 			<string>login -fp felton</string>
 			<key>Cursor Color</key>
@@ -2387,7 +2387,7 @@
 			<key>Right Option Key Sends</key>
 			<integer>0</integer>
 			<key>Rows</key>
-			<integer>39</integer>
+			<integer>45</integer>
 			<key>Screen</key>
 			<integer>-1</integer>
 			<key>Scrollback Lines</key>
@@ -2529,7 +2529,7 @@
 			<key>Tags</key>
 			<array/>
 			<key>Terminal Type</key>
-			<string>xterm</string>
+			<string>xterm-256color</string>
 			<key>Transparency</key>
 			<real>0.0</real>
 			<key>Triggers</key>
@@ -2618,7 +2618,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2013-03-03T16:29:30Z</date>
+	<date>2013-03-10T21:37:21Z</date>
 	<key>SavePasteHistory</key>
 	<false/>
 	<key>Show Toolbelt</key>
