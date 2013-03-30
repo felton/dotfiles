@@ -1077,11 +1077,11 @@
 	<key>NSWindow Frame Preferences</key>
 	<string>562 463 924 485 0 0 1680 1028 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>123 267 962 706 0 0 1680 1028 </string>
+	<string>157 188 997 813 0 0 1680 1028 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>383 203 913 689 0 0 1680 1028 </string>
+	<string>316 224 997 791 0 0 1680 1028 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
-	<string>195 209 1011 808 0 0 1680 1028 </string>
+	<string>-121 190 997 813 0 0 1680 1028 </string>
 	<key>NSWindow Frame iTerm Window 3</key>
 	<string>2076 36 1081 961 1680 -30 1920 1080 </string>
 	<key>NSWindow Frame iTerm Window 4</key>
@@ -2250,7 +2250,7 @@
 			<key>Close Sessions On End</key>
 			<true/>
 			<key>Columns</key>
-			<integer>141</integer>
+			<integer>152</integer>
 			<key>Command</key>
 			<string>login -fp felton</string>
 			<key>Cursor Color</key>
@@ -2387,7 +2387,7 @@
 			<key>Right Option Key Sends</key>
 			<integer>0</integer>
 			<key>Rows</key>
-			<integer>45</integer>
+			<integer>50</integer>
 			<key>Screen</key>
 			<integer>-1</integer>
 			<key>Scrollback Lines</key>
@@ -2618,7 +2618,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2013-03-10T21:37:21Z</date>
+	<date>2013-03-30T13:33:33Z</date>
 	<key>SavePasteHistory</key>
 	<false/>
 	<key>Show Toolbelt</key>
@@ -2690,6 +2690,6 @@
 	<key>WordCharacters</key>
 	<string>/-+\~_.</string>
 	<key>iTerm Version</key>
-	<string>1.0.0.20130302</string>
+	<string>1.0.0.20130319</string>
 </dict>
 </plist>
